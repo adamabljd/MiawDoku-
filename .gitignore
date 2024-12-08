@@ -2,6 +2,15 @@
 
 # dependencies
 node_modules/
+# React Native
+ios/
+android/
+*.log
+*.lock
+
+# macOS
+.DS_Store
+
 
 # Expo
 .expo/
